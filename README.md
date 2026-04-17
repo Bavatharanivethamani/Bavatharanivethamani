@@ -109,7 +109,7 @@
 
 ## 📫 Connect With Me
 
-* 🔗 LinkedIn: https://linkedin.com/in/BAVATHARANI V
+* 🔗 LinkedIn: https://www.linkedin.com/in/bavatharani-v-97224a296/
 * 💻 GitHub: https://github.com/Bavatharanivethamani
 * 📧 Email: [bavatharanivethamani@gmail.com](mailto:bavatharanivethamani@gmail.com)
 
