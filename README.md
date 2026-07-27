@@ -2,16 +2,22 @@
 
 🎓 Bachelor of Information Technology Student (2027)
 📍 Chennai, Tamil Nadu, India
+    CGPA:9.11 (UPTO - 6th SEMESTER)
 💡 Aspiring Software Engineer | AI & Machine Learning Enthusiast
 
 ---
 
 ## 🚀 About Me
 
-* 🔭 Currently working on **AI & Deep Learning Projects**
+* 🔭 Currently working on **AI & Deep Learning Projects** 
 * 🌱 Learning **Advanced Machine Learning & System Design**
 * 💬 Ask me about **Java, Python, SQL, AI/ML**
 * ⚡ Strong interest in solving real-world problems using AI
+
+---
+## Coding Profile
+250+ Problem Solved in Leetcode
+1400+ Problem solved in Skillrack
 
 ---
 
