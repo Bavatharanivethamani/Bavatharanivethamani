@@ -6,6 +6,8 @@
 💡 Aspiring Software Engineer | AI & Machine Learning Enthusiast
 
 ---
+## Resume Drive link
+Google drive Link:  https://drive.google.com/file/d/1VWmL7pJaTpkkJxCkGGjb2IeQlmztbkC-/view?usp=sharing
 
 ## 🚀 About Me
 
