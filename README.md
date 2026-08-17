@@ -7,7 +7,7 @@
 
 ---
 ## Resume Drive link
-Google drive Link:  https://drive.google.com/file/d/1VWmL7pJaTpkkJxCkGGjb2IeQlmztbkC-/view?usp=sharing
+Google drive Link: https://drive.google.com/file/d/17bcrNJ9nlD0pNAZvGrjaMqMVwq_2d9ed/view
 
 ## 🚀 About Me
 
