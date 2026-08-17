@@ -2,7 +2,7 @@
 
 🎓 Bachelor of Information Technology Student (2027)
 📍 Chennai, Tamil Nadu, India, 
-    CGPA:9.11 (UPTO - 6th SEMESTER)
+    CGPA:9.12 (UPTO - 6th SEMESTER)
 💡 Aspiring Software Engineer | AI & Machine Learning Enthusiast
 
 ---
