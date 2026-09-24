@@ -109,11 +109,6 @@ Google drive Link: https://drive.google.com/file/d/17bcrNJ9nlD0pNAZvGrjaMqMVwq_2
 
 ---
 
-## 📈 GitHub Stats
-
-![Bavatharani's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bavatharanivethamani\&show_icons=true)
-
----
 
 ## 📫 Connect With Me
 
