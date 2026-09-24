@@ -18,7 +18,7 @@ Google drive Link: https://drive.google.com/file/d/17bcrNJ9nlD0pNAZvGrjaMqMVwq_2
 
 ---
 ## Coding Profile
-250+ Problem Solved in Leetcode, 
+290+ Problem Solved in Leetcode, 
 1400+ Problem solved in Skillrack
 
 ---
